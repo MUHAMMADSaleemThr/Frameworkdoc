@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-27T22:29:28 EDT" name="Regression" finished-at="2021-04-27T22:29:50 EDT" duration-ms="22168">
+    <groups>
+    </groups>
+    <test started-at="2021-04-27T22:29:28 EDT" name="adhoc" finished-at="2021-04-27T22:29:50 EDT" duration-ms="22168">
+      <class name="Com.PeopleNTech.Framework.Com.PeopleNTech.Frame.HomeDepotCreate">
+        <test-method is-config="true" signature="beforeClass(java.lang.String,java.lang.String)[pri:0, instance:Com.PeopleNTech.Framework.Com.PeopleNTech.Frame.HomeDepotCreate@4b5d6a01]" started-at="2021-04-27T22:29:28 EDT" name="beforeClass" finished-at="2021-04-27T22:29:36 EDT" duration-ms="7763" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.homedepot.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:Com.PeopleNTech.Framework.Com.PeopleNTech.Frame.HomeDepotCreate@4b5d6a01]" started-at="2021-04-27T22:29:36 EDT" name="f" finished-at="2021-04-27T22:29:49 EDT" duration-ms="13346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Com.PeopleNTech.Framework.Com.PeopleNTech.Frame.HomeDepotCreate@4b5d6a01]" started-at="2021-04-27T22:29:50 EDT" name="afterClass" finished-at="2021-04-27T22:29:50 EDT" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Com.PeopleNTech.Framework.Com.PeopleNTech.Frame.HomeDepotCreate -->
+    </test> <!-- adhoc -->
+  </suite> <!-- Regression -->
+</testng-results>
